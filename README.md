@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justintakamiya
-- 👀 I’m interested in creating video game.
+- 👀 I’m interested in creating overlays.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on app projects.
 - 📫 How to reach me jjtakami@ncsu.edu
